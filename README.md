@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Beod Wilson</h1>
-<h3 align="center">AI fanatic, guitar player, singer and coder</h3>
+<h3 align="center">Interested in NLP, checkout Voice GPT a tool to talk to Chat GPT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beodw&label=Profile%20views&color=0e75b6&style=flat" alt="beodw" /> </p>
 
