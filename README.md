@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://beodw.github.io](https://beodw.github.io)
 
-- 💬 Ask me about **React, NextJS, Python**
+- 💬 Ask me about **React, NodeJS / NextJS, Python**
 
 - 📫 How to reach me **beodwison@gmail.com**
 
