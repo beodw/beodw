@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beodw&label=Profile%20views&color=0e75b6&style=flat" alt="beodw" /> </p>
 
-- 🔭 I’m currently working on **ECS Payment**
+
 
 - 👨‍💻 All of my projects are available at [https://beodw.github.io](https://beodw.github.io)
 
